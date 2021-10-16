@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lordakats.github.io
+Token: eda67a472e4bd88dd1937165c2558999cf9fc499783a208f3e7f573a28588d7f
